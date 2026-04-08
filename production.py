@@ -44,7 +44,7 @@ class ProductFilter:
         return result
 
 
-# Näidiskasutus
+
 products = [
     Product("Apple", Color.GREEN, Size.SMALL),
     Product("Tree", Color.GREEN, Size.LARGE),

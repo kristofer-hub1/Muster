@@ -1,7 +1,7 @@
 class Diary:
     def __init__(self):
-        self.entries = []      # nimekiri sissekannetest
-        self.counter = 0       # loendur
+        self.entries = []      
+        self.counter = 0       
 
     def add_entry(self, text):
         self.counter += 1
@@ -39,7 +39,7 @@ class Diary:
         return "\n".join(self.entries)
 
 
-# Näidiskasutus
+
 d = Diary()
 d.add_entry("Täna oli ilus ilm.")
 d.add_entry("Õppisin programmeerimist.")
