@@ -1,0 +1,2 @@
+1: Täna oli ilus ilm.
+2: Õppisin programmeerimist.
